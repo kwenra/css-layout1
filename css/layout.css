@@ -13,7 +13,8 @@ body {
 }
 
 .box {
-  width: 32%;
+  width: 30%;
+  margin: 3%;
   position: relative;
   float: left;
 }
