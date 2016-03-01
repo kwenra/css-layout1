@@ -27,6 +27,7 @@ body {
 
 .box img {
   border: 3px solid #000000;
+  position: relative;
 }
 
 .box a.read-more {
