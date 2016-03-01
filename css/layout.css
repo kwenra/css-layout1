@@ -13,6 +13,7 @@ body {
 
 .box {
   width: 30%;
+  position: relative;
   float: left;
 }
 
