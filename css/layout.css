@@ -30,8 +30,7 @@ body {
 }
 
 .box img {
-  border: 3px solid #000000;
-  position: relative;
+  width: 100%;
 }
 
 .box a.read-more {
