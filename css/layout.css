@@ -20,6 +20,7 @@ body {
   top: 15px;
   width: 30%;
   margin: 1%;
+  border-bottom: 3px solid #ccc;
   position: relative;
   float: left;
 }
@@ -35,11 +36,16 @@ body {
 }
 
 .box a.read-more {
+  display: block;
+  margin-top: 5px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
 }
 
 .footer {
   bottom: 0;
   left: 0;
   width: 100%;
+  border-top: 3px solid #ccc;
   position: fixed;
 }
