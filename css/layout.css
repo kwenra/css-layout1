@@ -21,9 +21,9 @@ body {
 
 .box img {
   border: 10px solid #3f0;
-  bottom: 10px;
+  top: 10px;
   left: 100px;
-  position: relative;
+  position: absolute;
 }
 
 .box a.read-more {
