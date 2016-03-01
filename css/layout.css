@@ -17,6 +17,7 @@ body {
 }
 
 .box {
+  top: 15px;
   width: 30%;
   margin: 1%;
   position: relative;
