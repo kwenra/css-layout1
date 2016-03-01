@@ -8,6 +8,7 @@ body {
 }
 
 .heading h1 {
+  position: fixed;
 }
 
 .box {
@@ -30,4 +31,5 @@ body {
 }
 
 .footer {
+  position: fixed;
 }
